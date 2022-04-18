@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <string name="porwal_s_cafe">Porwal\'s Cafe</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="todo">TODO</string>
+    <string name="skip">SKIP</string>
+    <string name="porwal_cafe">Porwal\'s Cafe</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="user_name">User Name</string>
+    <string name="_911234567890">+911234567890</string>
+    <string name="porwalharsh007_gmail_com">abcd@gmail.com</string>
+    <string name="pass">****</string>
+    <string name="button">Button</string>
+    <string name="already_have_account_login">Already Have Account ? Login</string>
+    <string name="Google">Google</string>
+    <string name="Facebook">Facebook</string>
+    <string name="Or_with">Or With</string>
+    <string name="Porwalharsh007_gmail_com" translatable="false">ab</string>
+    <string name="pas">****</string>
+    <string name="sign_in">Sign In</string>
+    <string name="want_to_creat_account_signup">Want to creat Account ? SignUp</string>
+    <string name="Todo">TODO</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="or_with">Or With</string>
+    <string name="or">Or</string>
+
+</resources>
