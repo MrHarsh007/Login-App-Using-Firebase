@@ -139,11 +139,13 @@
                         android:layout_marginEnd="10dp"
                         android:layout_weight="1"
                         android:background="#1E63D1"
+                        android:drawableLeft="@drawable/fb"
                         android:fontFamily="sans-serif-thin"
                         android:gravity="center"
+                        android:padding="5dp"
                         android:text="@string/facebook"
                         android:textColor="#000000"
-                        android:textSize="24sp"
+                        android:textSize="20sp"
                         android:textStyle="bold" />
 
                     <TextView
@@ -153,11 +155,13 @@
                         android:layout_marginTop="20dp"
                         android:layout_weight="1"
                         android:background="#D61D1D"
+                        android:drawableLeft="@drawable/google"
                         android:fontFamily="sans-serif-thin"
                         android:gravity="center"
+                        android:padding="5dp"
                         android:text="@string/google"
                         android:textColor="#000000"
-                        android:textSize="24sp"
+                        android:textSize="20sp"
                         android:textStyle="bold" />
 
 
